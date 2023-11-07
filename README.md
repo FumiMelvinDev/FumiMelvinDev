@@ -6,6 +6,7 @@ Web Developer
 
 I am a Full-Stack Web Developer, and I take pride in being a versatile professional with expertise in both front-end and back-end web development. My role is to create and maintain engaging, interactive, and user-friendly websites and web applications. In the fast-evolving world of web development, I am dedicated to staying up-to-date with the latest industry trends, best practices, and emerging technologies. Front-End Development: I excel in HTML, CSS, and JavaScript, enabling me to craft responsive and visually appealing user interfaces that offer engaging and intuitive user experiences. Back-End Development: I am proficient in server-side programming using Node.js. I have experience with databases. This proficiency allows me to build and manage servers, handle data efficiently. Frameworks and Libraries: I work with a variety of front-end and back-end frameworks and libraries, including React, Angular, Express, NextJS. I leverage these tools to streamline development and deliver high-quality applications.
 
+* 🖥️  See my portfolio at [FumiMelvin.Dev](http://fumimelvin.dev)
 * ✉️  You can contact me at [fumimelvindev@gamil.com](mailto:fumimelvindev@gamil.com)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on MERN STACK and Nextjs
